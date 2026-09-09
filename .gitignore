@@ -1,0 +1,12 @@
+# Fotos originais em alta resolução — não devem ir para o repositório público
+fotos-originais/
+
+# Configuração local de preview (Claude Code)
+.claude/
+
+# Notas internas de template — não fazem parte da entrega ao cliente
+CLAUDE-NOVO-SITE.md
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
